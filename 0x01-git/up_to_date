@@ -1,1 +1,1 @@
-echo 'filecontent'>>newfilename
+git pull
